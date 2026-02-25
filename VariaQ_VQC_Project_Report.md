@@ -2,7 +2,7 @@
 
 *Purna Sainath Reddy V*
 School of Computer Engineering, Data Science
-Manipal Institute of Technology, Bengaluru, India
+Mohan Babu University, Tirupati, India
 
 
 ---
